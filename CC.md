@@ -5,7 +5,7 @@
     <img src="static/logo.png" alt="Logo" width="100">
   </a>
 
-<h3 align="center">Device Continuous Controllers</h3>
+<h3 align="center">Playtron Continuous Controllers</h3>
 
   <p align="center">
     BODY IS AN INSTRUMENT
